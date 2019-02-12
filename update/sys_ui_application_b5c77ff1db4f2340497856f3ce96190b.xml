@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>GetData Configs</name>
+        <order/>
+        <roles>x_matsa_getdata_io.getdata_configs_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>matt.saxton</sys_created_by>
+        <sys_created_on>2019-01-18 02:16:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b5c77ff1db4f2340497856f3ce96190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GetData Configs</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GetData.io" source="x_matsa_getdata_io">2a97bfb1db4f2340497856f3ce96192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GetData.io">2a97bfb1db4f2340497856f3ce96192d</sys_scope>
+        <sys_update_name>sys_ui_application_b5c77ff1db4f2340497856f3ce96190b</sys_update_name>
+        <sys_updated_by>matt.saxton</sys_updated_by>
+        <sys_updated_on>2019-01-18 02:16:26</sys_updated_on>
+    </sys_ui_application>
+</record_update>
